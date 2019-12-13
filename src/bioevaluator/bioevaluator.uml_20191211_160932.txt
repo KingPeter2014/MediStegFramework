@@ -1,0 +1,11 @@
+WARNING - 16:09:32: First conversion pass
+ERROR - 16:09:32: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+ERROR - 16:09:32: com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 2 of 2-byte UTF-8 sequence.
+WARNING - 16:10:16: First conversion pass
+ERROR - 16:10:16: org.xml.sax.SAXParseExceptionpublicId: /MedStegFramework/src/bioevaluator/BioEvaluatorController.java; systemId: file:///MedStegFramework/src/bioevaluator/BioEvaluatorController.java; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:10:16: org.xml.sax.SAXParseExceptionpublicId: /MedStegFramework/src/bioevaluator/BioEvaluatorController.java; systemId: file:///MedStegFramework/src/bioevaluator/BioEvaluatorController.java; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
+WARNING - 16:11:46: First conversion pass
+ERROR - 16:11:46: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 16:12:12: First conversion pass
+ERROR - 16:12:12: org.xml.sax.SAXParseExceptionpublicId: /MedStegFramework/src/bioevaluator/BioEvaluatorController.java; systemId: file:///MedStegFramework/src/bioevaluator/BioEvaluatorController.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+ERROR - 16:12:12: org.xml.sax.SAXParseExceptionpublicId: /MedStegFramework/src/bioevaluator/BioEvaluatorController.java; systemId: file:///MedStegFramework/src/bioevaluator/BioEvaluatorController.java; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
